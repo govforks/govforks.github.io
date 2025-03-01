@@ -1,2 +1,2 @@
 # govforks.github.io
-forking government repos
+forking government repositories
